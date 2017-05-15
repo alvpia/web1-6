@@ -27,7 +27,12 @@ width:70px;
 
  text-align:right;
 }
-
+td#cl2{
+ text-align:center;
+}
+td#cl3{
+ text-align:center;
+}
 
 
 .btn{ 
