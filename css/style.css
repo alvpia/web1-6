@@ -47,11 +47,13 @@ width:70px;
 color:white;
 }
 
-.btn-submit{
- background-color:skyblue;
 
-}
 
-.btn-reset{
-background-color:red;
-}
+input[type="submit"] {
+　 background-color:skyblue;
+
+};
+input[type="reset"] {
+　 background-color:Beige;
+
+};
