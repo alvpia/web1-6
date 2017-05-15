@@ -48,12 +48,12 @@ color:white;
 }
 
 
-
-.btn-reset{
-　 background-color:skyblue;
-
-}
 .btn-submit{
-　 background-color:red;
+background-color:red;
 
 }
+.btn-reset{
+background-color:skyblue;
+
+}
+
