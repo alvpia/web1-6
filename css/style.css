@@ -8,6 +8,13 @@ float:left;
 #but{
  float:left;   
 }
+#cl2{
+background-color:skyblue;
+}
+#cl3{
+background-color:	Bisque;
+}
+
 th, td{
 border: 1px solid green;
 }
@@ -22,12 +29,6 @@ width:70px;
 }
 
 
-#cl2{
-background-color:skyblue;
-}
-#cl3{
-background-color:	Bisque;
-}
 
 .btn{ 
   -webkit-appearance:none;
