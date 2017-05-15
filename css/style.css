@@ -4,7 +4,10 @@ border :4px 4px 2px 2px solid lime;
 float:right;
 }
 
-
+#but{
+ float:right; 
+  
+}
 th, td{
 border: 1px solid lime;
 
