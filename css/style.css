@@ -1,13 +1,13 @@
 #jaga{
 
 border :4px solid lime;
-float:right;
+float:left;
 }
 #ime{
- float:right;
+ float:left;
 }
 #but{
- float:right; 
+ float:left; 
   
 }
 th, td{
