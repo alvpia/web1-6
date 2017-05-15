@@ -24,3 +24,37 @@ td{
 width:70px;
 background-color:	Bisque;
 }
+
+.btn{
+ 
+  -webkit-appearance:none;
+  -webkit-border-radius:none;
+  margin:5px;
+  
+  width:100px;
+  height:30px;
+  padding:10px;
+  border:none;
+  font-size:20px;
+  
+}
+
+.btn:hover{
+  
+ opacity:0.7;
+}
+
+.btn:active{
+color:white;
+
+}
+
+.btn-submit{
+ background-color:skyblue;
+  
+}
+
+.btn-reset{
+ background-color:	oldLace;
+  
+}
