@@ -49,11 +49,11 @@ color:white;
 
 
 
-.btn[type="submit"] {
+.btn-reset{
 　 background-color:skyblue;
 
 }
-.btn[type="reset"] {
+.btn-submit{
 　 background-color:Beige;
 
 }
