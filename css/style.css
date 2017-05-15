@@ -49,11 +49,11 @@ color:white;
 
 
 
-input[type="submit"] {
+input[type=submit] {
 　 background-color:skyblue;
 
 }
-input[type="reset"] {
+input[type=reset] {
 　 background-color:Beige;
 
 }
