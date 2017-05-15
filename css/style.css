@@ -21,7 +21,7 @@ background-color:	Bisque;
 }
 .btn{ 
   -webkit-appearance:none;
-  -webkit-border-radius:none;
+  -webkit-border-radius:0;
   margin:5px;  
   width:100px;
   height:30px;
@@ -41,6 +41,6 @@ color:white;
 
 }
 
-reset.btn{
+.btn-reset{
  background-color:OldLace;
 }
