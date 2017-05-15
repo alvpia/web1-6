@@ -1,24 +1,26 @@
 #jaga{
 
 border :4px 4px 2px 2px solid lime;
-
+float:right;
 }
 
 
 th, td{
-
-border: 1px sold lime;
+border: 1px solid lime;
 
 
 }
 
 th{
   
- text-align:center;
+width:100px;
+ text-align: center;
   
 }
 
 
 td{
+  
+width:70px;
 background-color:	Bisque;
 }
