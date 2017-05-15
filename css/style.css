@@ -17,9 +17,18 @@ width:100px;
 }
 td{
 width:70px;
-background-color:	Bisque;
+
  text-align:right;
 }
+
+
+#cl2{
+background-color:skyblue;
+}
+#cl3{
+background-color:	Bisque;
+}
+
 .btn{ 
   -webkit-appearance:none;
   -webkit-border-radius:0;
